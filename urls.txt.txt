@@ -1,1 +1,2 @@
 http://backend.course#dyrachokk
+http://backend.course?name="Дригель Максим"&github_name=dyrachokk&group"ФЕІ-22с"&subgroup="Підгрупа 1"
